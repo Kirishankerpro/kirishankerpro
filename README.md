@@ -31,7 +31,7 @@
 <img title="Cursor IDE" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">&nbsp;
 <img title="GitHub Copilot" src="https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=github-copilot&logoColor=white">&nbsp;
 <img title="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">&nbsp;
-<img title="Perplexity" src="[https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)">&nbsp;
+<img title="Perplexity" src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white">&nbsp;
 
 ## Tools
 
