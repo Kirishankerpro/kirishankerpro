@@ -23,8 +23,12 @@
 <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;
 <img title="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img title="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>&nbsp;
-  
 
+## AI & Workflow
+
+<img title="Cursor IDE" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">&nbsp;
+<img title="GitHub Copilot" src="https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=github-copilot&logoColor=white">&nbsp;
+<img title="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">&nbsp;
 
 ## Tools
 
